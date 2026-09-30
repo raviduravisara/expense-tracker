@@ -2,7 +2,7 @@
 
 A clean, responsive expense tracker built with **Flutter** and **Firebase** (Authentication + Cloud Firestore) for the CyphLab Flutter Developer Internship practical task.
 
-**Demo video:** [screen recording on OneDrive](https://1drv.ms/f/c/cb64a54655cc30ab/IgBiw0gWmfipQJHH97ckRjViARZAjUCNYpLOz_APpm1KvzI?e=mR2xb5)
+**Demo video and release APK:** [OneDrive folder](https://1drv.ms/f/c/cb64a54655cc30ab/IgBiw0gWmfipQJHH97ckRjViARZAjUCNYpLOz_APpm1KvzI?e=mR2xb5) (contains the screen recording and `app-release.apk`)
 
 ## Features
 
