@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "892503506080",
+    "project_id": "expense-tracker-9f26b",
+    "storage_bucket": "expense-tracker-9f26b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:892503506080:android:b2713798fcc3dd44c19dc5",
+        "android_client_info": {
+          "package_name": "com.ravidu.expense_tracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGns4Eqb2qIz63DrSVd0W7lhRj2799ufE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
